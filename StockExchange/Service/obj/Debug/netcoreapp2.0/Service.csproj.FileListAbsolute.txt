@@ -1,0 +1,12 @@
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\Service\bin\Debug\netcoreapp2.0\Service.deps.json
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\Service\bin\Debug\netcoreapp2.0\Service.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\Service\bin\Debug\netcoreapp2.0\Service.pdb
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\Service\bin\Debug\netcoreapp2.0\domain.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\Service\bin\Debug\netcoreapp2.0\domain.pdb
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\Service\obj\Debug\netcoreapp2.0\Service.csprojAssemblyReference.cache
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\Service\obj\Debug\netcoreapp2.0\Service.csproj.CoreCompileInputs.cache
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfoInputs.cache
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfo.cs
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\Service\obj\Debug\netcoreapp2.0\Service.csproj.CopyComplete
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\Service\obj\Debug\netcoreapp2.0\Service.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\Service\obj\Debug\netcoreapp2.0\Service.pdb

@@ -1,0 +1,12 @@
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\CLI\bin\Debug\netcoreapp2.1\win10-x64\api.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\CLI\bin\Debug\netcoreapp2.1\win10-x64\domain.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\CLI\bin\Debug\netcoreapp2.1\win10-x64\Service.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\CLI\bin\Debug\netcoreapp2.1\win10-x64\api.pdb
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\CLI\bin\Debug\netcoreapp2.1\win10-x64\domain.pdb
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\CLI\bin\Debug\netcoreapp2.1\win10-x64\Service.pdb
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\CLI\obj\Debug\netcoreapp2.1\win10-x64\CLI.csproj.CoreCompileInputs.cache
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\CLI\obj\Debug\netcoreapp2.1\win10-x64\CLI.AssemblyInfoInputs.cache
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\CLI\obj\Debug\netcoreapp2.1\win10-x64\CLI.AssemblyInfo.cs
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\CLI\obj\Debug\netcoreapp2.1\win10-x64\CLI.csproj.CopyComplete
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\CLI\obj\Debug\netcoreapp2.1\win10-x64\CLI.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\CLI\obj\Debug\netcoreapp2.1\win10-x64\CLI.pdb

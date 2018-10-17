@@ -1,0 +1,9 @@
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\domain\bin\Debug\netcoreapp2.1\domain.deps.json
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\domain\bin\Debug\netcoreapp2.1\domain.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\domain\bin\Debug\netcoreapp2.1\domain.pdb
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\domain\obj\Debug\netcoreapp2.1\domain.csprojAssemblyReference.cache
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\domain\obj\Debug\netcoreapp2.1\domain.csproj.CoreCompileInputs.cache
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\domain\obj\Debug\netcoreapp2.1\domain.AssemblyInfoInputs.cache
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\domain\obj\Debug\netcoreapp2.1\domain.AssemblyInfo.cs
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\domain\obj\Debug\netcoreapp2.1\domain.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\domain\obj\Debug\netcoreapp2.1\domain.pdb

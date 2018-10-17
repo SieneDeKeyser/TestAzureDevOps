@@ -1,0 +1,16 @@
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\bin\Release\netcoreapp2.1\api.deps.json
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\bin\Release\netcoreapp2.1\api.runtimeconfig.json
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\bin\Release\netcoreapp2.1\api.runtimeconfig.dev.json
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\bin\Release\netcoreapp2.1\api.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\bin\Release\netcoreapp2.1\api.pdb
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\bin\Release\netcoreapp2.1\domain.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\bin\Release\netcoreapp2.1\Service.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\bin\Release\netcoreapp2.1\domain.pdb
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\bin\Release\netcoreapp2.1\Service.pdb
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\obj\Release\netcoreapp2.1\api.csprojAssemblyReference.cache
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\obj\Release\netcoreapp2.1\api.csproj.CoreCompileInputs.cache
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\obj\Release\netcoreapp2.1\api.AssemblyInfoInputs.cache
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\obj\Release\netcoreapp2.1\api.AssemblyInfo.cs
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\obj\Release\netcoreapp2.1\api.csproj.CopyComplete
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\obj\Release\netcoreapp2.1\api.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\api\obj\Release\netcoreapp2.1\api.pdb

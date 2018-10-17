@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "api/1.0.0": {
+        "dependencies": {
+          "Service": "1.0.0",
+          "domain": "1.0.0"
+        },
+        "runtime": {
+          "api.dll": {}
+        }
+      },
+      "domain/1.0.0": {
+        "runtime": {
+          "domain.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "dependencies": {
+          "domain": "1.0.0"
+        },
+        "runtime": {
+          "Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

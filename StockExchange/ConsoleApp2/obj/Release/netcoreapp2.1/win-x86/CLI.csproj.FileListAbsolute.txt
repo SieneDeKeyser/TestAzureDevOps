@@ -1,0 +1,13 @@
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\ConsoleApp2\bin\Release\netcoreapp2.1\win-x86\api.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\ConsoleApp2\bin\Release\netcoreapp2.1\win-x86\domain.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\ConsoleApp2\bin\Release\netcoreapp2.1\win-x86\Service.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\ConsoleApp2\bin\Release\netcoreapp2.1\win-x86\api.pdb
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\ConsoleApp2\bin\Release\netcoreapp2.1\win-x86\domain.pdb
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\ConsoleApp2\bin\Release\netcoreapp2.1\win-x86\Service.pdb
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\ConsoleApp2\obj\Release\netcoreapp2.1\win-x86\CLI.csprojAssemblyReference.cache
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\ConsoleApp2\obj\Release\netcoreapp2.1\win-x86\CLI.csproj.CoreCompileInputs.cache
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\ConsoleApp2\obj\Release\netcoreapp2.1\win-x86\CLI.AssemblyInfoInputs.cache
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\ConsoleApp2\obj\Release\netcoreapp2.1\win-x86\CLI.AssemblyInfo.cs
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\ConsoleApp2\obj\Release\netcoreapp2.1\win-x86\CLI.csproj.CopyComplete
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\ConsoleApp2\obj\Release\netcoreapp2.1\win-x86\CLI.dll
+C:\switchfully-track-dotnet\30-enterprise-software-development-dotnet\10-build-and-dependency-management\StockExchange\ConsoleApp2\obj\Release\netcoreapp2.1\win-x86\CLI.pdb
